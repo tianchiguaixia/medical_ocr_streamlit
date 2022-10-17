@@ -29,7 +29,5 @@ streamlit run  AI-医学图片OCR.py
 
 ### 前端展示
 * 前端展示地址：http://ip:8501
-![](img/img.png)
-![](img/img_3.png)
 ![](img/img_4.png)
 
